@@ -20,3 +20,20 @@
     font-size: 24px;
     color: #657C36;
 }
+
+.escola-imagem{
+    width: 23%;
+    padding-left: 90px;
+}
+
+.escola{
+    background-image: linear-gradient(#2b3647,#657C36) ;
+    color: white;
+    font-size: 24px;
+    padding: 24px 0;
+}
+
+.escola-imagem-3{
+    width: 28%;
+    padding-left: 90px;
+}
