@@ -5,5 +5,18 @@
 
 .cabeçalho{
     display: flex;
-    background-color: white;
+    background-color: #2b3647;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 10%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    color: #657C36;
 }
