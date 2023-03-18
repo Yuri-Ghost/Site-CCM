@@ -18,7 +18,11 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
-    color: #657C36;
+    color: white;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .escola-imagem{
@@ -36,4 +40,41 @@
 .escola-imagem-3{
     width: 28%;
     padding-left: 90px;
+}
+
+.estudante-imagem{
+    width: 250px;
+}
+
+.estudante-icone{
+    width: 80px;
+}
+
+.estudante-div{
+    text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+    background-color: #657C36 ;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-image: linear-gradient(#657C36,#2b3647);
+}
+
+.estudante-imagem-2{
+    width: 260px;
+}
+
+.rodape{
+    background-color:#2b3647 ;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 100px;
 }
